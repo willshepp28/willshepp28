@@ -7,9 +7,9 @@ My name is Will Sheppard, and iam a Software Engineer, with a passion for buildi
 
 **Lets Connect:**
 
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-<img align="left" alt="Abhishek's Spotify" height="22px"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.reddit.com/user/geekyabhi/"><img align="left" alt="Abhishek's Reddit" height="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="">
-<img align="left" alt="Abhishek's Spotify" height="22px"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/will-sheppard-81a184145/">
+<img align="left" alt="Wills Linkedin" height="22px"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/willshepp_dev"><img align="left" alt="Wills Twitter" height="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="mailto:willsheppard.dev@gmail.com">
+<img align="left" alt="Wills Gmail" height="22px"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/>
 
@@ -25,7 +25,6 @@ My name is Will Sheppard, and iam a Software Engineer, with a passion for buildi
 **Check My Latest Content:**  
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@willsheppard29/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@willsheppard29/0" alt="Recent Article 0"> 
-
 
 
 **GitHub Stats:**  
