@@ -2,6 +2,7 @@
 
 My name is Will Sheppard, and iam a Software Engineer, with a passion for building web applications. 
 
+<img src="https://webdev-assets.s3.amazonaws.com/CLUB+(3).png">
 
 
 
