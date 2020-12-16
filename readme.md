@@ -23,7 +23,7 @@ My name is Will Sheppard, and iam a Software Engineer, with a passion for buildi
 
 #### Check My Latest Content:  
 
-<a target="_blank" href="https://willsheppard29.medium.com/leetcode-challenge-shuffle-strings-d2f07356787c"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@willsheppard29/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://willsheppard29.medium.com/leetcode-challenge-single-number-f85662134679"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@willsheppard29/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://willsheppard29.medium.com/build-and-deploy-a-league-sponsorship-service-with-node-js-76851c0036eb"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@willsheppard29/1" alt="Recent Article 0"> 
 
 
