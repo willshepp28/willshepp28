@@ -64,7 +64,7 @@ Here are some noteworthy projects I have worked on:
   
 - **Project 3**: League-Spx
   - Description: A platform to enable brands to connect and sponsor youth sports teams.
-  - GitHub Repository: [League
+  - GitHub Repository:   - GitHub Repository: [League-Spx Repository](https://github.com/willshepp28/League-Spx)
  
 ### Connect with Me
 You can find me on various platforms. Let's connect and collaborate!
