@@ -41,7 +41,7 @@ Here are some companies I've had the pleasure to work for:
   - Website: [Mavrck](https://www.mavrck.co/?utm_source=google&utm_medium=cpc&utm_campaign=Brand%20Headterms&gclid=Cj0KCQjwho-lBhC_ARIsAMpgMocyb0GxRlsFuX6-pPqdworDEnnCGI0Ti2zHHAcVvyGGnRh03khqUlkaAt5bEALw_wcB)
   - LinkedIn: [Mavrck on LinkedIn](https://www.linkedin.com/company/mavrck/)
   
-Feel free to reach out to me if you'd like to learn more about my experience at these companies! You can contact me through [willsheppard.dev@gmail.com](mailto:willsheppard.dev@gmail.com).
+Feel free to reach out to me if you'd like to learn more about my experience at these companies! You can contact me through [willsheppard.dev@gmail.com](mailto:willsheppard.dev@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/will-sheppard-81a184145/).
 
 ### Projects
 Here are some noteworthy projects I have worked on:
