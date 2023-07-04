@@ -1,10 +1,8 @@
-# Hello, Everyone!
-
-My name is Will Sheppard, and iam a Software Engineer, with a passion for building web applications. 
-
 <img src="https://webdev-assets.s3.amazonaws.com/CLUB+(3).png">
 
 
+
+# Welcome to my GitHub profile! 👋
 
 #### Lets Connect
 
@@ -14,42 +12,15 @@ My name is Will Sheppard, and iam a Software Engineer, with a passion for buildi
 
 <br/>
 
-
-#### Languages and Tools:
-
-<code><img height="20" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><code><img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></code> <code><img height="20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></code> 
-
-
-
-#### Check My Latest Content:  
-
-<a target="_blank" href="https://willsheppard29.medium.com/leetcode-challenge-single-number-f85662134679"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@willsheppard29/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://willsheppard29.medium.com/build-and-deploy-a-league-sponsorship-service-with-node-js-76851c0036eb"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@willsheppard29/1" alt="Recent Article 0"> 
-
-
-#### GitHub Stats: 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=willshepp28&show_icons=true&theme=gotham" alt="willshepp" />
-
-Certainly! Here's the updated template with the new Languages and Tools section and the badges for React, GraphQL, Express, Ruby, Cypress, and PostgreSQL:
-
-```markdown
-# Welcome to my GitHub profile! 👋
-
-## About Me
+### About Me
 I'm Will Sheppard, a passionate Software Engineer based in North Charleston, SC. I love coding, exploring new technologies, and building innovative solutions.
 
-## Languages and Tools
+### Languages and Tools
 Here are the languages and tools I frequently work with:
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat-square)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+<code>![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat-square)![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat-square)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)</code>
 
-## Tech Stack
+### Tech Stack
 - Programming Languages: JavaScript, Ruby
 - Frameworks: React, Express
 - Testing: Cypress, Jest, RSpec
@@ -57,7 +28,7 @@ Here are the languages and tools I frequently work with:
 - Databases: MySQL, PostgreSQL
 - Other Skills: Agile Development, RESTful APIs, Test-Driven Development
 
-## Work Experience
+### Work Experience
 Here are some companies I've had the pleasure to work for:
 
 - **Leagueside**
@@ -72,7 +43,7 @@ Here are some companies I've had the pleasure to work for:
   
 Feel free to reach out to me if you'd like to learn more about my experience at these companies! You can contact me through [willsheppard.dev@gmail.com](mailto:willsheppard.dev@gmail.com).
 
-## Projects
+### Projects
 Here are some noteworthy projects I have worked on:
 
 - **Project 1**: YouTube Clone
@@ -85,4 +56,28 @@ Here are some noteworthy projects I have worked on:
   
 - **Project 3**: League-Spx
   - Description: A platform to enable brands to connect and sponsor youth sports teams.
+  - GitHub Repository: [League-Spx Repository](https://github
+  
+- **Project 2**: Instagram Clone
+  - Description: A clone of the Instagram social media platform.
+  - GitHub Repository: [Instagram Clone Repository](https://github.com/willshepp28/InstagramCloneV2-Frontend)
+  
+- **Project 3**: League-Spx
+  - Description: A platform to enable brands to connect and sponsor youth sports teams.
   - GitHub Repository: [League
+ 
+### Connect with Me
+You can find me on various platforms. Let's connect and collaborate!
+
+- LinkedIn: [Will Sheppard](https://www.linkedin.com/in/will-sheppard-81a184145/)
+- Personal Website: [Will Sheppard's Portfolio](http://will-sheppard-portfolio.s3-website-us-east-1.amazonaws.com/index.html)
+- Email: [willsheppard.dev@gmail.com](mailto:willsheppard.dev@gmail.com)
+ 
+### GitHub Stats: 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=willshepp28&show_icons=true&theme=gotham" alt="willshepp" />
+ 
+### Check My Latest Content:  
+
+<a target="_blank" href="https://willsheppard29.medium.com/leetcode-challenge-single-number-f85662134679"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@willsheppard29/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://willsheppard29.medium.com/build-and-deploy-a-league-sponsorship-service-with-node-js-76851c0036eb"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@willsheppard29/1" alt="Recent Article 0"> 
